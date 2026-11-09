@@ -1,0 +1,14 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Build local do GitHub Pages
+_site/
+
+# Dependências (não usadas neste projeto)
+node_modules/

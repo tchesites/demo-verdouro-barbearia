@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" fill="none" role="img" aria-label="Verdouro Barbearia">
+  <!-- Emblema circular -->
+  <circle cx="120" cy="46" r="32" stroke="#F5F2EB" stroke-width="1.2"/>
+  <!-- Arco dourado interno -->
+  <path d="M92 46a28 28 0 0 1 56 0" stroke="#C59B45" stroke-width="0.8" opacity="0.55"/>
+  <!-- Navalha estilizada -->
+  <g stroke-linecap="round" fill="none">
+    <path d="M102 31 L122 51" stroke="#F5F2EB" stroke-width="4.6"/>
+    <path d="M125 52 L136 63" stroke="#F5F2EB" stroke-width="2.6"/>
+  </g>
+  <circle cx="123" cy="51" r="2.2" fill="#C59B45"/>
+  <circle cx="136" cy="63" r="1.3" fill="#C59B45"/>
+  <!-- Nome VERDOURO -->
+  <text x="120" y="112" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="27" font-weight="600" fill="#F5F2EB" letter-spacing="4">VERDOURO</text>
+  <!-- Subtítulo BARBEARIA -->
+  <text x="120" y="132" text-anchor="middle" font-family="'Inter', Arial, sans-serif" font-size="10" font-weight="500" fill="#C59B45" letter-spacing="6">BARBEARIA</text>
+</svg>
