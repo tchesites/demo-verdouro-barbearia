@@ -69,5 +69,5 @@ Publicado no **GitHub Pages** em https://tchesites.github.io/demo-verdouro-barbe
 
 - O deploy é feito pelo workflow `.github/workflows/deploy.yml` a cada push na `main`.
 - O workflow copia o site estático para `_site` e publica com as actions oficiais do Pages.
-- O Pages usa **Source = GitHub Actions** (o workflow habilita automaticamente com `enablement: true`).
+- **Primeira configuração:** em **Settings → Pages → Source**, selecione **GitHub Actions**. O token do Actions não tem permissão de administração na organização para criar o site do Pages sozinho; por isso essa habilitação inicial é manual.
 - Para rodar manualmente: aba **Actions** → **Deploy no GitHub Pages** → **Run workflow**.
